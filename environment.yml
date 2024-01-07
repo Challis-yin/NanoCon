@@ -1,4 +1,4 @@
-name: jy2
+name: NanoCon
 channels:
   - rdkit
   - openbabel
