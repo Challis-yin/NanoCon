@@ -297,4 +297,3 @@ dependencies:
     - xxhash==3.2.0
     - yarl==1.8.1
     - zipp==3.15.0
-prefix: /home/weilab/anaconda3/envs/jy2
